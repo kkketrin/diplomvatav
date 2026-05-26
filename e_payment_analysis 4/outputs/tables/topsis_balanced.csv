@@ -1,0 +1,6 @@
+﻿payment_model,payment_model_bg,scenario,distance_to_best,distance_to_worst,topsis_score,rank
+instant_payment,Незабавно плащане,balanced,0.0631,0.304556,0.828372,1
+card_payment,Картово плащане,balanced,0.195513,0.25135,0.562476,2
+e_wallet,Електронен портфейл,balanced,0.190659,0.24182,0.559149,3
+bank_transfer,Банков превод,balanced,0.234727,0.23117,0.496183,4
+open_banking,Open Banking плащане,balanced,0.223407,0.211399,0.486192,5

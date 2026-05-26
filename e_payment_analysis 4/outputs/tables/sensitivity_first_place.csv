@@ -1,0 +1,6 @@
+﻿payment_model,payment_model_bg,first_place_count,first_place_share,average_random_score
+instant_payment,Незабавно плащане,968,0.968,0.855988
+card_payment,Картово плащане,21,0.021,0.606552
+e_wallet,Електронен портфейл,6,0.006,0.591551
+bank_transfer,Банков превод,5,0.005,0.480807
+open_banking,Open Banking плащане,0,0.0,0.481914

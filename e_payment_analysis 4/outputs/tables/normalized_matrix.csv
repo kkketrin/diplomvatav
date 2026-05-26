@@ -1,0 +1,6 @@
+﻿payment_model,payment_model_bg,average_cost,average_latency,failure_rate,risk_probability,availability,scalability,user_convenience,regulatory_compatibility
+card_payment,Картово плащане,0.0,0.873014,0.625425,0.0,0.8,1.0,1.0,0.5
+bank_transfer,Банков превод,0.595197,0.0,0.951771,1.0,0.4,0.0,0.0,1.0
+instant_payment,Незабавно плащане,0.884696,1.0,0.850631,0.781597,1.0,0.857143,0.666667,0.8
+e_wallet,Електронен портфейл,0.151776,0.93445,1.0,0.40752,0.6,0.714286,0.9,0.0
+open_banking,Open Banking плащане,1.0,0.738917,0.0,0.265438,0.0,0.428571,0.5,0.9

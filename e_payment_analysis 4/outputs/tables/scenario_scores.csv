@@ -1,0 +1,26 @@
+﻿scenario,payment_model,payment_model_bg,score,rank
+balanced,instant_payment,Незабавно плащане,0.855092,1
+balanced,card_payment,Картово плащане,0.599805,2
+balanced,e_wallet,Електронен портфейл,0.588504,3
+balanced,bank_transfer,Банков превод,0.493371,4
+balanced,open_banking,Open Banking плащане,0.479116,5
+consumer,instant_payment,Незабавно плащане,0.837309,1
+consumer,e_wallet,Електронен портфейл,0.685221,2
+consumer,card_payment,Картово плащане,0.637194,3
+consumer,open_banking,Open Banking плащане,0.464249,4
+consumer,bank_transfer,Банков превод,0.413732,5
+merchant,instant_payment,Незабавно плащане,0.868508,1
+merchant,bank_transfer,Банков превод,0.579153,2
+merchant,e_wallet,Електронен портфейл,0.54857,3
+merchant,open_banking,Open Banking плащане,0.508293,4
+merchant,card_payment,Картово плащане,0.492386,5
+infrastructure,instant_payment,Незабавно плащане,0.883038,1
+infrastructure,e_wallet,Електронен портфейл,0.625261,2
+infrastructure,card_payment,Картово плащане,0.623575,3
+infrastructure,bank_transfer,Банков превод,0.490381,4
+infrastructure,open_banking,Open Banking плащане,0.3722,5
+security_regulation,instant_payment,Незабавно плащане,0.832499,1
+security_regulation,bank_transfer,Банков превод,0.762526,2
+security_regulation,e_wallet,Електронен портфейл,0.467282,3
+security_regulation,card_payment,Картово плащане,0.442464,4
+security_regulation,open_banking,Open Banking плащане,0.438006,5
